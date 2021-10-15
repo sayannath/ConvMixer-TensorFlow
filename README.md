@@ -2,6 +2,8 @@
 
 Implementation of ConvMixer in TensorFlow and Keras
 
+<a href="https://colab.research.google.com/drive/1m-faU1DmBZlqkVY_tcYnOcepGlOyJ5K9?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
 **Paper Link:** https://openreview.net/pdf?id=TVHS5Y4dNvM <br>
 **Note:** Paper is under review for ICLR 2022
 
@@ -18,11 +20,9 @@ Note: We are using TensorFlow-Addons for using the `AdamW` optimiser and `GeLU` 
 
 ## Results
 
-TBA
+![Unknown-2](https://user-images.githubusercontent.com/41967348/137559060-96c6c84a-7055-4f3d-ade1-415e5a756880.png) ![Unknown](https://user-images.githubusercontent.com/41967348/137559078-0f095bd4-e119-457c-ac79-7caa5e9a076e.png)
 
-## Citations
-
-TBA
+Note: Trained `25 Epochs` and got a top-5-accuracy of 64.41%
 
 ## License
 ```
