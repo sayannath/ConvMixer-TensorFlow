@@ -5,7 +5,7 @@ Implementation of ConvMixer in TensorFlow and Keras
 <a href="https://colab.research.google.com/drive/1m-faU1DmBZlqkVY_tcYnOcepGlOyJ5K9?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 **Paper Link:** https://openreview.net/pdf?id=TVHS5Y4dNvM <br>
-**Note:** Paper is under review for ICLR 2022
+Note: Paper is under review for ICLR 2022
 
 ## Model Architechture
 
