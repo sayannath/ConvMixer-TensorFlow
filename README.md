@@ -1,11 +1,14 @@
 # ConvMixer
 
-Implementation of ConvMixer in TensorFlow and Keras
+ConvMixer, an extremely simple model that is similar in spirit to the ViT and the even-more-basic MLP-Mixer in that it operates directly on patches as input, separates the mixing of spatial and channel dimensions, and maintains equal size and resolution throughout the network. In contrast, however, the ConvMixer uses only standard convolutions to achieve the mixing steps. Despite its simplicity, we show that the ConvMixer outperforms the ViT, MLP-Mixer, and some of their variants for similar parameter counts and data set sizes, in addition to outperforming classical vision models such as the ResNet.
 
-<a href="https://colab.research.google.com/drive/1m-faU1DmBZlqkVY_tcYnOcepGlOyJ5K9?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+> Official GitHub Link: https://github.com/tmp-iclr/convmixer
 
 **Paper Link:** https://openreview.net/pdf?id=TVHS5Y4dNvM <br>
 Note: Paper is under review for ICLR 2022
+
+
+<a href="https://colab.research.google.com/drive/1m-faU1DmBZlqkVY_tcYnOcepGlOyJ5K9?usp=sharing" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## Model Architechture
 
@@ -16,6 +19,7 @@ Note: Paper is under review for ICLR 2022
 ```
 pip install -q tensorflow-addons
 ```
+
 Note: We are using TensorFlow-Addons for using the `AdamW` optimiser and `GeLU` activation function.
 
 ## Results
