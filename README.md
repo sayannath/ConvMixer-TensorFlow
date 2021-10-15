@@ -22,6 +22,8 @@ Note: We are using TensorFlow-Addons for using the `AdamW` optimiser and `GeLU` 
 
 ![Unknown-2](https://user-images.githubusercontent.com/41967348/137559060-96c6c84a-7055-4f3d-ade1-415e5a756880.png) ![Unknown](https://user-images.githubusercontent.com/41967348/137559078-0f095bd4-e119-457c-ac79-7caa5e9a076e.png)
 
+> TensorBoard Link: https://tensorboard.dev/experiment/bkhqOz0RQ1Cv5dwrDQySMQ/
+
 Note: Trained `25 Epochs` and got a top-5-accuracy of 64.41%
 
 ## Future Work
