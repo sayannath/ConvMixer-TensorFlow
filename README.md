@@ -2,7 +2,7 @@
 
 ConvMixer, an extremely simple model that is similar in spirit to the ViT and the even-more-basic MLP-Mixer in that it operates directly on patches as input, separates the mixing of spatial and channel dimensions, and maintains equal size and resolution throughout the network. In contrast, however, the ConvMixer uses only standard convolutions to achieve the mixing steps. Despite its simplicity, we show that the ConvMixer outperforms the ViT, MLP-Mixer, and some of their variants for similar parameter counts and data set sizes, in addition to outperforming classical vision models such as the ResNet.
 
-> Official GitHub Link: https://github.com/tmp-iclr/convmixer
+**Official GitHub Link:** https://github.com/tmp-iclr/convmixer
 
 **Paper Link:** https://openreview.net/pdf?id=TVHS5Y4dNvM <br>
 Note: Paper is under review for ICLR 2022
