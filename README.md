@@ -5,6 +5,7 @@ ConvMixer, an extremely simple model that is similar in spirit to the ViT and th
 **Official GitHub Link:** https://github.com/tmp-iclr/convmixer
 
 **Paper Link:** https://openreview.net/pdf?id=TVHS5Y4dNvM <br>
+
 Note: Paper is under review for ICLR 2022
 
 
