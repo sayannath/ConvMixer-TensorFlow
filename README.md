@@ -21,7 +21,7 @@ Note: Paper is under review for ICLR 2022
 pip install -q tensorflow-addons
 ```
 
-Note: We are using TensorFlow-Addons for using the `AdamW` optimiser and `GeLU` activation function.
+Note: We are using TensorFlow-Addons for using the `AdamW` optimizer and `GeLU` activation function.
 
 ## Results
 
