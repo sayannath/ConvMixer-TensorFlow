@@ -36,6 +36,19 @@ Note: Trained `25 Epochs` and got a top-5-accuracy of 64.41%
 * To train on 150 epochs
 * To train model on ImageNet dataset
 
+## Citation
+```
+@inproceedings{
+anonymous2022patches,
+title={Patches Are All You Need?},
+author={Anonymous},
+booktitle={Submitted to The Tenth International Conference on Learning Representations },
+year={2022},
+url={https://openreview.net/forum?id=TVHS5Y4dNvM},
+note={under review}
+}
+```
+
 ## License
 ```
 MIT License
